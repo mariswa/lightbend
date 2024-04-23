@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T15:37:37.657Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="WKfx61Bff2G4qTqNBhF2" version="24.2.8" type="github" pages="2">
-  <diagram name="Page-1" id="KbNTlnNxtgr6E_SMIUui">
+<mxfile host="app.diagrams.net" modified="2024-04-23T23:02:09.388Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="FUKjNuv1go-FhdaQBwbw" version="24.2.8" type="github" pages="2">
+  <diagram name="EC2" id="KbNTlnNxtgr6E_SMIUui">
     <mxGraphModel dx="2284" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -13,13 +13,13 @@
         <mxCell id="Jc0TgyNvxWa0V-Hy9nz2-4" value="JVM" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=none;fontColor=#333333;strokeColor=#666666;" parent="Jc0TgyNvxWa0V-Hy9nz2-3" vertex="1">
           <mxGeometry x="20" y="40" width="250" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="EECQZ3oTvI8ZsemNhzvR-4" value="Customer apps" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Jc0TgyNvxWa0V-Hy9nz2-3">
+        <mxCell id="EECQZ3oTvI8ZsemNhzvR-4" value="Customer apps" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="Jc0TgyNvxWa0V-Hy9nz2-3" vertex="1">
           <mxGeometry x="40" y="60" width="210" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="EECQZ3oTvI8ZsemNhzvR-6" value="App server" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Jc0TgyNvxWa0V-Hy9nz2-3">
+        <mxCell id="EECQZ3oTvI8ZsemNhzvR-6" value="App server" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="Jc0TgyNvxWa0V-Hy9nz2-3" vertex="1">
           <mxGeometry x="40" y="267" width="210" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="EECQZ3oTvI8ZsemNhzvR-7" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="Jc0TgyNvxWa0V-Hy9nz2-3">
+        <mxCell id="EECQZ3oTvI8ZsemNhzvR-7" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" parent="Jc0TgyNvxWa0V-Hy9nz2-3" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="-130" y="197" as="sourcePoint" />
             <mxPoint x="60" y="197" as="targetPoint" />
@@ -51,21 +51,24 @@
         <mxCell id="Jc0TgyNvxWa0V-Hy9nz2-21" value="Deploy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="60.23" y="225" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EECQZ3oTvI8ZsemNhzvR-1" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="EECQZ3oTvI8ZsemNhzvR-1" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="27.23" y="367" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EECQZ3oTvI8ZsemNhzvR-3" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="EECQZ3oTvI8ZsemNhzvR-3" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="40.5" y="353" as="sourcePoint" />
             <mxPoint x="40.5" y="303" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4nBp3fazs6u2-EEVndq4-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://docs.aws.amazon.com/images/prescriptive-guidance/latest/modernization-containerize-javaee/images/traditional_javaee_app.png;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="63.12000000000011" width="670" height="376.88" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="kw1SqrSkjkXeB9QMYeDP" name="Page-2">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="kw1SqrSkjkXeB9QMYeDP" name="EKS\ECS">
+    <mxGraphModel dx="2284" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,24 +112,27 @@
         <mxCell id="KQXWzhnEqGWQ8prxQAic-13" value="Amazon&amp;nbsp;&lt;div&gt;EKS&lt;/div&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eks;" parent="1" vertex="1">
           <mxGeometry x="280" y="41" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yXXj69yhmKk05Dp3bCb5-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" vertex="1" parent="1">
+        <mxCell id="yXXj69yhmKk05Dp3bCb5-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" parent="1" vertex="1">
           <mxGeometry x="85.39" y="260" width="32" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="yXXj69yhmKk05Dp3bCb5-4" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="yXXj69yhmKk05Dp3bCb5-4" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="33" y="280" as="sourcePoint" />
             <mxPoint x="83" y="280" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yXXj69yhmKk05Dp3bCb5-5" value="Install" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="yXXj69yhmKk05Dp3bCb5-5" value="Install" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="23" y="248" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yXXj69yhmKk05Dp3bCb5-6" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="yXXj69yhmKk05Dp3bCb5-6" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="4.23" y="367" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="akxSx5AeEfpPSOqKWwfF-1" value="Docker file" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.source_code;" vertex="1" parent="1">
+        <mxCell id="akxSx5AeEfpPSOqKWwfF-1" value="Docker file" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.source_code;" parent="1" vertex="1">
           <mxGeometry x="88.16" y="360" width="29.23" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-tO5fUQTx1tUX_l0uQtC-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://docs.aws.amazon.com/images/prescriptive-guidance/latest/modernization-containerize-javaee/images/containerized_javaee_app.png;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="57.49000000000001" width="680" height="382.51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
